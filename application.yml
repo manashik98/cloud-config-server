@@ -1,0 +1,11 @@
+some:
+  text: I am testing
+springbootdemo2:
+  hostname: localhost
+  portnumber: 8086
+  
+microservice:
+  payment-service:
+    endpoints:
+      endpoint:
+        uri: www.google.com
